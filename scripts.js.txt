@@ -1,0 +1,7 @@
+$(document).ready(function () {
+		console.log(1234553)
+}
+		$(".mobile-menu").on(e:"click", t:function(){
+		$(".navigation .menu").slideToggle();	
+		})
+		});
